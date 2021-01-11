@@ -1,0 +1,3 @@
+namratha,Row(Name='namratha', dob='24-05-1996', Phone='9916240396', email='nam@gmail.com', state name='Karnataka')
+kavya,Row(Name='kavya', dob='13-06-1998', Phone='9448792883', email='kav@gmail.com', state name='maharastra')
+pooja,Row(Name='pooja', dob='06-01-1966', Phone='7411419476', email='poo@gmail.com', state name='Karnataka')
